@@ -1,7 +1,6 @@
 # LikhithaAralimara-AttendanceTrackerBackend
 Attendance Tracking System 
-						LIKHITHA A Aralimara
-					 	8431321252
+						
 
 Functionalities
 Login
@@ -36,56 +35,6 @@ https://github.com/LikhithaAralimara/AttendanceTrackerFrontEnd.git
 
 GitHub of BackEnd(php):
 https://github.com/LikhithaAralimara/LikhithaAralimara-AttendanceTrackerBackend.git
-
-
-
-
-
-Walk through the App:
-1. Welcome Page 					2. Login Page
-                
-
-
-
-
-
-
-
-
-
-Login Page Error States 
-
-               
-
-             User Details : OnTap on the top right Icon
-
-
-CheckIn CheckOut Toggle Button
- 
-
-
-
-
-
-
-
-Employee Attendance Log/History
- 
-
-
-
-
-
-
-
-
-
-Database
-
-User Table:
-
-
-Attendance Table 
 
 
 Future Scope of the project:
